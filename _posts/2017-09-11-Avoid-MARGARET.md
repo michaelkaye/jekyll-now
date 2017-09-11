@@ -5,6 +5,8 @@ title: Avoding MARGARET
 
 Everyone should avoid MARGARET.
 
+![MARGARET]({{ site.url }}/images/StockSnap_9ML7MMR8T5.jpg)
+
 I'm speaking from personal experience here, but not about a double date gone wrong. 
 
 A good few years ago now, we were integrating with a selection of telecommunications networks to offer a brand new service. Some of them were really on the ball, and knocked out a brand new XMLRPC endpoint, some provided SOAP endpoints, all seemed well.
